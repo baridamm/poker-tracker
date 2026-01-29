@@ -1,0 +1,4 @@
+poker_hands.csv
+__pycache__/
+*.pyc
+.DS_Store
